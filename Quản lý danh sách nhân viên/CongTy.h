@@ -2,6 +2,7 @@
 #include "NhanVien.h"
 #include "NhanVienSanXuat.h"
 #include "NhanVienVanPhong.h"
+#include "ThucTap.h"
 #include <iostream>
 #include <vector>
 using namespace std;

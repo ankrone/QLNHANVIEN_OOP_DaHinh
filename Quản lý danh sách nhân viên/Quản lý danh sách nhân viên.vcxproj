@@ -144,12 +144,14 @@
     <ClCompile Include="NhanVien.cpp" />
     <ClCompile Include="NhanVienSanXuat.cpp" />
     <ClCompile Include="NhanVienVanPhong.cpp" />
+    <ClCompile Include="ThucTap.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CongTy.h" />
     <ClInclude Include="NhanVien.h" />
     <ClInclude Include="NhanVienSanXuat.h" />
     <ClInclude Include="NhanVienVanPhong.h" />
+    <ClInclude Include="ThucTap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
